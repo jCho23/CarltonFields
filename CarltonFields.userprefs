@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{6DC17982-9252-479A-AA09-B9DED3A8BFDB}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CarltonFields/Tests.cs">
+    <Files>
+      <File FileName="CarltonFields/Tests.cs" Line="33" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CarltonFields PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
